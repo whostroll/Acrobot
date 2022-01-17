@@ -19,7 +19,7 @@ Explanation (optional if its a responsive issue):
 
 **PS**: Join our discord server to check if the issue is fixed before submitting one 
 
-![Link!](https://invidget.switchblade.xyz/8ansRef4AZ)
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](http://discord.gg/8ansRef4AZ)
 
 
 
